@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="highlightedNodes.ts" type="PLAIN_TEXT" />
       <mapping pattern=".bootstraprc" type="PLAIN_TEXT" />
+      <mapping pattern=".env.enc" type="PLAIN_TEXT" />
       <mapping pattern="server" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
